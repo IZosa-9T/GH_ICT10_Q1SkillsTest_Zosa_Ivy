@@ -1,0 +1,290 @@
+html body {
+    background-color: rgb(237, 235, 223);
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.navb li {
+    margin-left: 10px;
+}
+
+.activepage {
+    background-color: rgb(246, 245, 239) !important;
+    border-radius: 50px !important;
+}
+
+.activepage a {
+    color: rgb(48, 45, 42) !important;
+}
+
+.activepage a:hover {
+    color: rgb(48, 45, 42) !important;
+}
+
+.inactivepage a {
+    color: rgb(237, 235, 223);
+}
+
+.inactivepage a:hover {
+    color: rgb(48, 45, 42) !important;
+}
+
+.inactivepage:hover {
+    background-color: #B2B4B3 !important;
+    border-radius: 100px;
+}
+
+.navb {
+    background-color: rgb(112, 120, 130);
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navb .navlogo {
+    margin-right: 30px;
+}
+
+.navlogo {
+    width: 40px;
+}
+
+.shoptitleholder {
+    background-color: rgb(112, 120, 130);
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+h1 {
+    color:rgb(237, 235, 223) !important;
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300 !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-bottom: 3px; 
+    margin-top: 0px; 
+    letter-spacing: 5px;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+}
+
+h3 {
+    margin-bottom: 3px; 
+    margin-top: 0px; 
+    letter-spacing: 5px;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+}
+
+.narrow {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+}
+
+.logo {
+    width: 80px;
+ }
+
+.smalllogo {
+    width: 30px;
+}
+
+.card {
+    color: rgb(48, 45, 42) !important;
+    background-color: rgb(246, 245, 239) !important;
+    padding: 40px !important;
+    border-radius: 20px !important;
+    border: 5px solid rgb(48, 45, 42) !important;
+}
+
+.card2 {
+    color: rgb(48, 45, 42) !important;
+    background-color: rgb(246, 245, 239) !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+    border-radius: 20px !important;
+    border: 5px solid rgb(48, 45, 42) !important;
+    width: 100%;
+    font-size: 14px;
+}
+
+table {
+    text-align: justify;
+    width: 100%;
+}
+
+th {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+td {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+#ownersname {
+    color: rgb(246, 245, 239);
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#yearestablished {
+    color: rgb(246, 245, 239);
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 0px;
+    letter-spacing: 5px;
+}
+
+.businesshoursstyle {
+    background-color: rgb(112, 120, 130);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.businesshoursstyle p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 300;
+    letter-spacing: 5px;
+    color: rgb(246, 245, 239);
+}
+
+#commonallergens {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 0px;
+    letter-spacing: 3px;
+}
+
+.footer {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+    margin-top: 0px;
+    letter-spacing: 5px;
+    bottom: 0;
+	vertical-align: middle;
+	position: fixed;
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	height: 45px;
+    background-color: #B2B4B3;
+}
+
+.footer a {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+    color: rgb(48, 45, 42) !important;
+    text-decoration: none !important;
+}
+
+#taxrate, #deliverystatus {
+    font-family:"Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 0px;
+    letter-spacing: 2px;
+}
+
+.btn {
+    background-color: #302D2A !important;
+    color: rgba(246, 245, 239, 0.845) !important;
+    border-radius: 100px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    height: 40px;
+}
+
+.btn2 {
+    background-color: rgb(48, 45, 42) !important;
+    color: rgba(237, 235, 223) !important;
+    border-radius: 100px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    height: 40px;
+    width: 100%;
+    border: none !important;
+}
+
+ul {
+    list-style-type: none;
+}
+
+input {
+    border: none !important;
+    border-radius: 100px;
+    height: 40px;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(246, 245, 239);
+}
+
+.justifyalign {
+    text-align: justify !important;
+}
+
+.bluebackground {
+    background-color: rgb(112, 120, 130);
+    border-radius: 20px;
+    padding: 20px !important;
+}
+
+.orderoption {
+    width: 80px;
+}
+
+.verticalalign {
+    display: flex;
+    align-items: center;
+}
+
+.inputstyle2 {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(246, 245, 239);
+    color: rgb(48, 45, 42);
+    text-align: center;
+}
+
+.arrow {
+    width: 10px;
+}
+
+.arrowbtn {
+    background-color: rgba(2, 1, 2, 0) !important;
+    border: none !important;
+}
+
+.pquantity {
+    margin: 0px !important;
+    padding-left: 6px;
+}
+
+.modal-content {
+    border-radius: 30px !important;
+    padding: 20px;
+}
